@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Usama Nadeem</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3><br><br>
-
+<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<br>
+<p align="center">
+  <img src="https://github.com/usamanadeemdeveloper/usamanadeemdeveloper/blob/main/Screenshot%202024-01-14%20021752.png" alt="logo">
+</p>
+<br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding-gif" width="400">
 </p>
