@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Usama Nadeem</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
-<br>
+
 <p align="center">
-  <img src="https://github.com/usamanadeemdeveloper/usamanadeemdeveloper/blob/main/Screenshot%202024-01-14%20021752.png" alt="logo">
+  <img src="https://github.com/usamanadeemdeveloper/usamanadeemdeveloper/raw/main/Screenshot%202024-01-14%20021752.png" alt="logo">
 </p>
-<br>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding-gif" width="400">
 </p>
@@ -20,12 +20,12 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  <a href="https://twitter.com/usamanadeem" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/usamanadeem?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
-<br><br>
+<br>
 
 - 🔭 Angular and Java Spring Boot at [Printlab Pakistan](https://app.printlab.stepwaysoftwares.com/#/)
 
@@ -33,30 +33,30 @@
 
 - 🔭 Contributing to Angular projects: [Smsa Tracking](https://tms.smsaexpress.com/#/), [Smsa Fleet](https://fms.smsaexpress.com/#/login)
 
-- 👨‍💻 All projects available at [http://my-portfolio.000.pe/?i=1](http://my-portfolio.000.pe/?i=1)
+- 👨‍💻 All projects available at [My Portfolio](http://my-portfolio.000.pe/?i=1)
 
 - 💬 Ask me about **JavaScript, Angular, Java Spring Boot, HTML, CSS, Bootstrap, PrimeNg or PrimeFace, MySQL**
 
 - 📫 How to reach me: [usamanadeem@gmail.com](mailto:usamanadeem@gmail.com)
 
-- 📄 Know about my experiences at [http://my-portfolio.000.pe/?i=1](http://my-portfolio.000.pe/?i=1)
+- 📄 Know about my experiences at [My Portfolio](http://my-portfolio.000.pe/?i=1)
 
-<br><br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="https://twitter.com/usamanadeem" target="blank">
+  <a href="https://twitter.com/usamanadeem" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamanadeem" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/channel/UCdqnrEVw_cnMSXslrTXZojA" target="blank">
+  <a href="https://www.youtube.com/channel/UCdqnrEVw_cnMSXslrTXZojA" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="usama-nadeem-codewards" height="30" width="40" />
   </a>
 </p>
 
+<br>
 
-<br><br>
-
-<h3 align="left">Languages and Tools:</h3><br><br>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -100,19 +100,19 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usamanadeemdeveloper&show_icons=true&locale=en&layout=compact" alt="usamanadeemdeveloper" />
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usamanadeemdeveloper&show_icons=true&locale=en" alt="usamanadeemdeveloper" />
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamanadeemdeveloper&" alt="usamanadeemdeveloper" />
