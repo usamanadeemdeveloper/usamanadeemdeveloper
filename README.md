@@ -1,3 +1,4 @@
+<meta http-equiv="refresh" content="5">
 <h1 align="center">Hi 👋, I'm Usama Nadeem</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
