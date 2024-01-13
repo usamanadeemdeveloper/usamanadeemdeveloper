@@ -23,7 +23,11 @@
   <a href="https://twitter.com/usamanadeem" target="_blank">
     <img src="https://img.shields.io/twitter/follow/usamanadeem?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
+  <a href="https://www.youtube.com/channel/UCdqnrEVw_cnMSXslrTXZojA" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube" />
+  </a>
 </p>
+
 
 <br>
 
