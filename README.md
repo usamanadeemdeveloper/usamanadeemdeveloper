@@ -50,11 +50,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/usamanadeem" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamanadeem" height="30" width="40" />
+  <a href="https://twitter.com/usamanadeem" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamanadeem-twitter" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/channel/UCdqnrEVw_cnMSXslrTXZojA" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="usama-nadeem-codewards" height="30" width="40" />
+  <a href="https://www.youtube.com/channel/UCdqnrEVw_cnMSXslrTXZojA" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="usama-nadeem-codewards-youtube" height="30" width="40" />
   </a>
 </p>
 
