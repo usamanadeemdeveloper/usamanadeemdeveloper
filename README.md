@@ -37,13 +37,14 @@
 
 - 🔭 Contributing to Angular projects: [Smsa Tracking](https://tms.smsaexpress.com/#/), [Smsa Fleet](https://fms.smsaexpress.com/#/login)
 
-- 👨‍💻 All projects available at [My Portfolio](http://my-portfolio.000.pe/?i=1)
+- 📄 Know about my experiences at [My Portfolio](https://usamanadeemdeveloper.github.io/usa/)
+
+- 👨‍💻 All projects available at [My Portfolio] [Comming Soon]
 
 - 💬 Ask me about **JavaScript, Angular, Java Spring Boot, HTML, CSS, Bootstrap, PrimeNg or PrimeFace, MySQL**
 
 - 📫 How to reach me: [usamanadeem@gmail.com](mailto:usamanadeem@gmail.com)
 
-- 📄 Know about my experiences at [My Portfolio](http://my-portfolio.000.pe/?i=1)
 
 <br>
 
