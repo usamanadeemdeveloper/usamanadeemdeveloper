@@ -31,19 +31,15 @@
 
 <br>
 
-- 🔭 Angular and Java Spring Boot at [Printlab Pakistan](https://app.printlab.stepwaysoftwares.com/#/)
+- 🔭 Working on Inventory System and contributing to AWS Lambda at [TRS]()
 
-- 🌱 Currently learning **JSP, Thymeleaf**
-
-- 🔭 Contributing to Angular projects: [Smsa Tracking](https://tms.smsaexpress.com/#/), [Smsa Fleet](https://fms.smsaexpress.com/#/login)
-
-- 📄 Know about my experiences at [My Portfolio](https://usamanadeemdeveloper.github.io/usa/)
+- 🌱 Currently learning **AWS, Lambda**
 
 - 👨‍💻 All projects available at [My Portfolio] [Comming Soon]
 
-- 💬 Ask me about **JavaScript, Angular, Java Spring Boot, HTML, CSS, Bootstrap, PrimeNg or PrimeFace, MySQL**
+- 💬 Ask me about **JavaScript, Angular, React, NextJs, Java Spring Boot, HTML, CSS, Bootstrap, PrimeNg or PrimeFace, MySQL**
 
-- 📫 How to reach me: [usamanadeem@gmail.com](mailto:usamanadeem@gmail.com)
+- 📫 How to reach me: [usamanadeem@gmail.com](mailto:usamanadeemparacha@gmail.com)
 
 
 <br>
