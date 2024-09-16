@@ -31,7 +31,7 @@
 
 <br>
 
-- 🔭 Working on Inventory System and contributing to AWS Lambda at [TRS]()
+- 🔭 Working on Inventory System and contributing to AWS Lambda at [TRS](https://treesols.com/)
 
 - 🌱 Currently learning **AWS, Lambda**
 
