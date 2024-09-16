@@ -67,9 +67,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="nextjs" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;Ï
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <div style="display: inline-block; background-color: white; border-radius: 5px; padding: 5px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    </div>
+  </a>&nbsp;&nbsp;&nbsp;
+  Ï<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
