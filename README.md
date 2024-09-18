@@ -66,10 +66,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;Ï
-  Ï<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
