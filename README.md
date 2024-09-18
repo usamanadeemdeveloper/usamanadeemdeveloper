@@ -60,7 +60,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
@@ -87,6 +86,10 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://i.pinimg.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="angular" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
