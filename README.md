@@ -88,7 +88,7 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://i.pinimg.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="angular" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
