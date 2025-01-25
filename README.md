@@ -29,28 +29,27 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamanadeemdeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="100%">
-</div>
-<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=usamanadeemdeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamanadeemdeveloper&theme=radical&hide_border=false" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=usamanadeemdeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="50%">
 </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=usamanadeemdeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamanadeemdeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamanadeemdeveloper&theme=radical&hide_border=false" width="50%">
 </div>
-<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=usamanadeemdeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamanadeemdeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%">
+</div>
 
 ### 🔝 Top Contributed Repo
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=usamanadeemdeveloper&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=usamanadeemdeveloper&limit=5&theme=dark&combine_all_yearly_contributions=true" width="50%">
 </div>
 
 
