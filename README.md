@@ -26,57 +26,60 @@
 
 # 💻 Tech Stack:
 
-# 💻 Good At:
+# ⭐ Good At:
 <div align="left">
   <!-- Frontend Stack -->
-<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
 
-<!-- Backend Stack -->
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo" />
+  <!-- Backend Stack -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo" />
 
-<!-- DevOps/Tools -->
-<img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+  <!-- DevOps/Tools -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
 
-<!-- Testing -->
-<img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" alt="jasmine logo" />
+  <!-- Testing -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" alt="jasmine logo" />
 
-# 💻 Also Known:
-<img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=workers" height="40" alt="workers logo" />
+# 💡 Familiar With:
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=workers" height="40" alt="workers logo" />
 </div>
 
 ###
