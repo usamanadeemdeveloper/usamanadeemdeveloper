@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usamanadeemdeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamanadeemdeveloper&theme=radical&hide_border=false" width="45%" height="100">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamanadeemdeveloper&theme=radical&hide_border=false" width="45%">
 </div>
 
 
