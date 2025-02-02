@@ -60,18 +60,6 @@
   <!-- DevOps/Tools -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-
-  <!-- Testing -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" alt="jasmine logo" />
 
 # 💡 Familiar With:
   <img width="12" />
@@ -80,6 +68,8 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=workers" height="40" alt="workers logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
 </div>
 
 ###
