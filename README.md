@@ -33,11 +33,11 @@ I'm a full-stack developer with hands-on experience building production systems 
 
 | Project | What I did | Status |
 |---|---|---|
-| [WHATWG File System Spec](https://github.com/whatwg/fs/pull/182) | Fixed a spec inconsistency in `WriteParams` — making `size`, `position`, `data` non-nullable so browsers correctly throw `TypeError` on invalid input | 🔄 In Review |
-| [Web Platform Tests](https://github.com/web-platform-tests/wpt/pull/58156) | Added test cases validating the `TypeError` behaviour across all browsers | 🔄 In Review |
-| [Firefox Bug](https://bugzilla.mozilla.org/show_bug.cgi?id=2021767) | Filed implementation tracking bug for Gecko engine | 🐛 Filed |
-| [Chrome Bug](https://issues.chromium.org/issues/490640057) | Filed implementation tracking bug for Blink engine | 🐛 Filed |
-| [Safari Bug](https://bugs.webkit.org/show_bug.cgi?id=309446) | Filed implementation tracking bug for WebKit engine (P2) | 🐛 Filed |
+| [WHATWG File System Spec](https://github.com/whatwg/fs/pull/182) | Fixed a spec inconsistency in `WriteParams` — making `size`, `position`, `data` non-nullable so browsers correctly throw `TypeError` on invalid input | 🔄 In Review · Feedback addressed, awaiting approval |
+| [Web Platform Tests](https://github.com/web-platform-tests/wpt/pull/58156) | Added test cases validating the `TypeError` behaviour across all browsers | 🔄 In Review · Awaiting first reviewer pass |
+| [Firefox Bug](https://bugzilla.mozilla.org/show_bug.cgi?id=2021767) | Filed implementation tracking bug for Gecko engine | 🐛 Unconfirmed · P3/S3 |
+| [Chrome Bug](https://issues.chromium.org/issues/490640057) | Filed implementation tracking bug for Blink engine | 🐛 Active · S3 |
+| [Safari Bug](https://bugs.webkit.org/show_bug.cgi?id=309446) | Filed implementation tracking bug for WebKit engine | 🐛 NEW · P2 |
 
 ---
 
