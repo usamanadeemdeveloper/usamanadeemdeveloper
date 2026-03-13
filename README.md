@@ -111,7 +111,7 @@ I'm a full-stack developer with hands-on experience building production systems 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamanadeemdeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=usamanadeemdeveloper&limit=5&theme=dark&combine_all_yearly_contributions=true" width="45%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamanadeemdeveloper&theme=radical&hide_border=false" width="45%">
 </div>
 
 ---
@@ -119,7 +119,7 @@ I'm a full-stack developer with hands-on experience building production systems 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usamanadeemdeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-trophies.vercel.app/?username=usamanadeemdeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 ---
