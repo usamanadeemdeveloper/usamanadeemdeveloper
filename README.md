@@ -105,13 +105,16 @@ I'm a full-stack developer with hands-on experience building production systems 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamanadeemdeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamanadeemdeveloper&theme=radical&hide_border=false" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=usamanadeemdeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamanadeemdeveloper&theme=radical&hide_border=false" width="49%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamanadeemdeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamanadeemdeveloper&theme=radical&hide_border=false" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamanadeemdeveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamanadeemdeveloper&theme=radical&hide_border=false" width="95%">
 </div>
 
 ---
@@ -126,6 +129,8 @@ I'm a full-stack developer with hands-on experience building production systems 
 
 ## 🌐 Socials
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-nadeem-full-stack-developer)
 [![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/UsamaNadeem)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MppCdkUsfn)
@@ -133,6 +138,8 @@ I'm a full-stack developer with hands-on experience building production systems 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@usamanadeemparacha)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/shanks1239)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/18o91BoAfH/)
+
+</div>
 
 ---
 
