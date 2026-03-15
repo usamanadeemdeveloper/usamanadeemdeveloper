@@ -22,7 +22,7 @@ I'm a full-stack developer with hands-on experience building production systems 
 
 - 🔭 Currently building **Team Nodepad** — a real-time team collaboration and management app
 - 🛍️ Also working on **E-Shop** — a full-featured e-commerce platform (beauty, shoes, gadgets)
-- 🌐 **Open Source:** Contributed a spec fix to the **WHATWG File System API** — the standard that defines how browsers (Chrome, Firefox & Safari) handle file system access on the web. Also filed implementation bugs with all three major browser engines and contributed test coverage to the [Web Platform Tests](https://github.com/web-platform-tests/wpt) suite
+- 🌐 **Open Source:** Contributed a spec fix to the **WHATWG File System API** — the standard that defines how browsers (Chrome, Firefox & Safari) handle file system access on the web. Also filed implementation bugs with all three major browser engines (WebKit acknowledged with internal Radar) and contributed test coverage to the [Web Platform Tests](https://github.com/web-platform-tests/wpt) suite. Also contributing to **Supabase Studio** — fixing CSV import behavior end-to-end
 - 🤝 Collaborating on **PrintLab Pakistan**, **SMSA Fleet Management**, and **SMSA Tracking**
 - 🤖 Currently exploring AI model integration into production applications
 - 💬 Ask me about **TypeScript, React, Next.js, Angular, Spring Boot, PostgreSQL, AWS**
@@ -37,7 +37,8 @@ I'm a full-stack developer with hands-on experience building production systems 
 | [Web Platform Tests](https://github.com/web-platform-tests/wpt/pull/58156) | Added test cases validating the `TypeError` behaviour across all browsers | 🔄 In Review · Awaiting first reviewer pass |
 | [Firefox Bug](https://bugzilla.mozilla.org/show_bug.cgi?id=2021767) | Filed implementation tracking bug for Gecko engine | 🐛 Unconfirmed · P3/S3 |
 | [Chrome Bug](https://issues.chromium.org/issues/490640057) | Filed implementation tracking bug for Blink engine | 🐛 Active · S3 |
-| [Safari Bug](https://bugs.webkit.org/show_bug.cgi?id=309446) | Filed implementation tracking bug for WebKit engine | 🐛 NEW · P2 |
+| [Supabase Studio](https://github.com/supabase/supabase/pull/43281) | Fixed CSV import — empty cells now correctly handled as empty strings or NULL based on user choice. Fixed `worker+transform` incompatibility, stale closure bug, broken preview display, and threaded the flag end-to-end through DB insertion for both new and existing tables | 🔄 In Review |
+| [Safari Bug](https://bugs.webkit.org/show_bug.cgi?id=309446) | Filed implementation tracking bug for WebKit engine | ✅ Acknowledged · Internal Radar filed |
 
 ---
 
