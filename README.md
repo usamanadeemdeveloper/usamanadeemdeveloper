@@ -20,10 +20,8 @@
 
 I'm a full-stack developer with hands-on experience building production systems across frontend, backend, and cloud infrastructure. I work with modern web technologies to deliver scalable, user-focused software.
 
-- 🔭 Currently building **Team Nodepad** — a real-time team collaboration and management app
-- 🛍️ Also working on **E-Shop** — a full-featured e-commerce platform (beauty, shoes, gadgets)
 - 🌐 **Open Source:** Contributed a spec fix to the **WHATWG File System API** — the standard that defines how browsers (Chrome, Firefox & Safari) handle file system access on the web. Also filed implementation bugs with all three major browser engines (WebKit acknowledged with internal Radar) and contributed test coverage to the [Web Platform Tests](https://github.com/web-platform-tests/wpt) suite. Also contributing to **Supabase Studio** — fixing CSV import behavior end-to-end
-- 🤝 Collaborating on **PrintLab Pakistan**, **SMSA Fleet Management**, and **SMSA Tracking**
+- 🤝 Collaborated on **PrintLab Pakistan**, **SMSA Fleet Management**, and **SMSA Tracking**
 - 🤖 Currently exploring AI model integration into production applications
 - 💬 Ask me about **TypeScript, React, Next.js, Angular, Spring Boot, PostgreSQL, AWS**
 
@@ -31,7 +29,7 @@ I'm a full-stack developer with hands-on experience building production systems 
 
 ## 🌐 Open Source Contributions
 
-| Project | What I did | Status |
+| Project | What I did | Status 
 |---|---|---|
 | [WHATWG File System Spec](https://github.com/whatwg/fs/pull/182) | Fixed a spec inconsistency in `WriteParams` — making `size`, `position`, `data` non-nullable so browsers correctly throw `TypeError` on invalid input | 🔄 In Review · Feedback addressed, awaiting approval |
 | [Web Platform Tests](https://github.com/web-platform-tests/wpt/pull/58156) | Added test cases validating the `TypeError` behaviour across all browsers | 🔄 In Review · Awaiting first reviewer pass |
@@ -97,7 +95,7 @@ I'm a full-stack developer with hands-on experience building production systems 
 | **Team Nodepad** | Real-time team management & collaboration app | TypeScript, React |
 | **E-Shop** | E-commerce platform with product listings & cart | TypeScript, Next.js |
 | **PrintLab Calculator** | Print estimation calculator for PrintLab Pakistan | Java |
-| **Car Rental App** | Full car rental booking system | TypeScript |
+| **AI Post Agent** | Autonomous agent that writes & posts to LinkedIn with fact-checking and source citations | TypeScript, Claude API |
 | **SMSA Fleet Management** | Fleet tracking & management for logistics | Angular |
 | **SMSA Tracking** | Shipment tracking application | Angular |
 
@@ -133,12 +131,8 @@ I'm a full-stack developer with hands-on experience building production systems 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-nadeem-full-stack-developer)
-[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/UsamaNadeem)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MppCdkUsfn)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Usama-Nadeem-CodeWards)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@usamanadeemparacha)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/shanks1239)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/18o91BoAfH/)
 
 </div>
 
