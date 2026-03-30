@@ -94,10 +94,10 @@ I'm a full-stack developer with hands-on experience building production systems 
 |---|---|---|
 | **Team Nodepad** | Real-time team management & collaboration app | TypeScript, React |
 | **E-Shop** | E-commerce platform with product listings & cart | TypeScript, Next.js |
-| **PrintLab Calculator** | Print estimation calculator for PrintLab Pakistan | Java |
+| **PrintLab** | Engineered PrintLab Pakistan to transition Pakistan’s print and paper industry from manual processes to a fully digital   workflow. | Java | Angular
 | **AI Post Agent** | Autonomous agent that writes & posts to LinkedIn with fact-checking and source citations | TypeScript, Claude API |
-| **SMSA Fleet Management** | Fleet tracking & management for logistics | Angular |
-| **SMSA Tracking** | Shipment tracking application | Angular |
+| **SMSA Fleet Management** | Fleet tracking & management for logistics | Angular | Java |
+| **SMSA Tracking** | Shipment tracking application | Angular | Java |
 
 ---
 
