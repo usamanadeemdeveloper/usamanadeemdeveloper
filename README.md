@@ -36,7 +36,7 @@ I'm a full-stack developer with hands-on experience building production systems 
 | [Firefox Bug](https://bugzilla.mozilla.org/show_bug.cgi?id=2021767) | Filed implementation tracking bug for Gecko engine | 🐛 Unconfirmed · P3/S3 |
 | [Chrome Bug](https://issues.chromium.org/issues/490640057) | Filed implementation tracking bug for Blink engine | 🐛 Active · S3 |
 | [Safari Bug](https://bugs.webkit.org/show_bug.cgi?id=309446) | Filed implementation tracking bug for WebKit engine | ✅ Acknowledged · Internal Radar filed |
-| [Supabase Studio](https://github.com/supabase/supabase/pull/43281) | Fixed CSV import — empty cells now correctly handled as empty strings or NULL based on user choice. Fixed `worker+transform` incompatibility, stale closure bug, broken preview display, and threaded the flag end-to-end through DB insertion for both new and existing tables | 🔄 In Review |
+| [Supabase Studio](https://github.com/supabase/supabase/pull/43281) | Fixed CSV import — empty cells now correctly handled as empty strings or NULL based on user choice. Fixed `worker+transform` incompatibility, stale closure bug, broken preview display, and threaded the flag end-to-end through DB insertion for both new and existing tables | ✅ Merged |
 
 ---
 
