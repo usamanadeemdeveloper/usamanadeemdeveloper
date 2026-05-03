@@ -127,7 +127,7 @@ const usama = {
 | 📋 **[Team Nodepad](https://team-nodepad.vercel.app)** | Real-time collaborative document editor with live syncing across users | TypeScript · React · Liveblocks |
 | 🛒 **[AI Commerce](https://ai-commerce-codewards.vercel.app)** | Full-stack furniture store with AI shopping assistant, advanced filtering, category browsing & Sanity CMS | TypeScript · Next.js · Sanity · Claude API |
 | 🏭 **[PrintLab Pakistan](https://github.com/MuhammadTabish10/PrintLab)** | Digitized Pakistan's entire print & paper industry workflow from manual to fully digital | Java · Angular |
-| 🚛 **[SMSA Fleet Mgmt](https://github.com/yaseenasif/smsa-fleet)** | Fleet tracking & management for logistics at scale | Angular · Java |
+| 🚛 **[SMSA Fleet Management](https://github.com/yaseenasif/smsa-fleet)** | Fleet tracking & management for logistics at scale | Angular · Java |
 | 📦 **[SMSA Tracking](https://github.com/yaseenasif/smsa-Tracking)** | Shipment tracking application | Angular · Java |
 
 🌐 See full project details & live demos on my **[portfolio →](https://usamanadeem.vercel.app)**
