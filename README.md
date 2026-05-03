@@ -10,7 +10,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=usamanadeemdeveloper&label=Profile%20Views&color=1f6feb&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/usamanadeemdeveloper?label=Followers&style=for-the-badge&color=1f6feb)](https://github.com/usamanadeemdeveloper?tab=followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://usamanadeem.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/usama-nadeem-full-stack-developer)
