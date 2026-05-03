@@ -162,7 +162,7 @@ const usama = {
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=usamanadeemdeveloper&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=30&margin-h=30" />
+<img src="https://github-trophies.vercel.app/?username=usamanadeemdeveloper&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=20&margin-h=20" />
 
 </div>
 
