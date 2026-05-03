@@ -138,23 +138,21 @@ const usama = {
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=usamanadeemdeveloper&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&border_color=1f6feb" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=usamanadeemdeveloper&theme=github-dark-blue&hide_border=false&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=usamanadeemdeveloper&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" 
+  width="95%" 
+/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamanadeemdeveloper&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&border_color=1f6feb" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usamanadeemdeveloper&theme=github-compact&hide_border=false&area=true&color=58a6ff&line=1f6feb&point=58a6ff" width="95%" />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=usamanadeemdeveloper&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=58a6ff" 
+  width="95%" 
+/>
 
 </div>
 
